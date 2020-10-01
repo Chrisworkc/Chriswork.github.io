@@ -1,2 +1,0 @@
-# Curriculo-Christian
-Currículo Pessoal
