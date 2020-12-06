@@ -8,6 +8,17 @@
 <body>   
 <hr>
 <section id="contato">
+<br>
+    <nav>
+        <menu>
+            <ul> 
+    <a href="index.html">Principal</a>
+    <a href="curriculo.html">Currículo</a>
+    <a href="portfolio.html">Portfólio</a>
+    <a href="contato.html">Contato</a>
+            </ul>
+        </menu>
+    </nav>
 <form action="christian.work@hotmail.com" method="post">
     <div>
         <label for="nome">Nome:</label>
