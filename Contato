@@ -1,24 +1,19 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <header>
-    <title>Currículo Christian Costa Santos</title>
+    <title>Christian Costa Santos</title>
     <meta charset="utf-8">
     <meta name="author" content="Christian Costa">
-</header>
+</header>          
 <body>   
-<hr>
-<section id="contato">
-<br>
-    <nav>
-        <menu>
-            <ul> 
-    <a href="index.html">Principal</a>
-    <a href="curriculo.html">Currículo</a>
-    <a href="portfolio.html">Portfólio</a>
-    <a href="contato.html">Contato</a>
-            </ul>
-        </menu>
-    </nav>
+    <section>
+        <h1>Entre em contato comigo</h1>
+        <p>Todas as mensagens serão respondidas o mais breve possível</p>
+    </section>
+    <hr>
+    <h2><a href="curriculo.html">Currículo</a></h2>
+    <h2><a href="index.html">Principal</a></h2>
+    <h2><a href="contato.html">Contato</a></h2>
 <form action="christian.work@hotmail.com" method="post">
     <div>
         <label for="nome">Nome:</label>
@@ -37,4 +32,4 @@
     </div>
 </form>
 </body>
-</html>
+</html>  
