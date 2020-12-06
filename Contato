@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<header>
+    <title>Currículo Christian Costa Santos</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Christian Costa">
+</header>
+<body>   
+<hr>
+<section id="contato">
+<form action="christian.work@hotmail.com" method="post">
+    <div>
+        <label for="nome">Nome:</label>
+        <input type="text" id="Nome" name="usuario_nome" />
+    </div>
+    <div>
+        <label for="email">E-mail:</label>
+        <input type="email" id="E-mail" name="usuario_email" />
+    </div>
+    <div>
+        <label for="msg">Mensagem:</label>
+        <textarea id="msg" name="usuario_msg"></textarea>
+    </div>
+    <div class="button">
+        <button type="submit">Enviar sua mensagem</button>
+    </div>
+</form>
+</body>
+</html>
